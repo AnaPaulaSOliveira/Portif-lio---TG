@@ -26,6 +26,6 @@ Contribuí com o desenvolvimento da programação do arduíno, na montagem da ma
 
 #### Soft Skills
 - Organização - Precisei ter organização para otimizar o tempo e ser produtiva durante o período da pandemia, quando tivemos aulas online
-- Trabalho em equipe - 
+- Trabalho em equipe
 
 
