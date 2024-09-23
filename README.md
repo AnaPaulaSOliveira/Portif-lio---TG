@@ -1,8 +1,9 @@
 # Ana Paula Santos de Oliveira
 
 ## Introdução
+![Ana Paula](https://github.com/user-attachments/assets/d27d0fb0-20d4-4f95-a180-7cc956823880)
 
-Sou Ana Paula nasci tenho 22 anos, moro em São José dos Campos-SP sou formada em técnico em química e atualamente estou na FATEC cursando o 5º Semestre de Análise e Desenvolvimento de Sistemas.
+Sou Ana Paula nasci tenho 22 anos, moro em São José dos Campos-SP sou formada em técnico em química e atualmente estou cursando o 5º Semestre de Análise e Desenvolvimento de Sistemasna na FATEC.
 
 ## Meus Projetos
 
