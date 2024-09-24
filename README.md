@@ -2,8 +2,7 @@
 
 ## Introdução
 
-![Ana Paula](https://github.com/user-attachments/assets/42bfd26d-50a8-4981-a5e2-af2eeef0bee7)
-) width="30" `height="20"
+![Ana Paula](https://github.com/user-attachments/assets/42bfd26d-50a8-4981-a5e2-af2eeef0bee7) width="30" `height="20"
 
 Sou Ana Paula nasci tenho 22 anos, moro em São José dos Campos-SP sou formada em técnico em química e atualmente estou cursando o 5º Semestre de Análise e Desenvolvimento de Sistemasna na FATEC.
 
