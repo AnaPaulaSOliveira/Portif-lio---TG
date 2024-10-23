@@ -19,7 +19,7 @@ Sou Ana Paula, tenho 22 anos, moro em São José dos Campos-SP sou formada em t�
 ### Em 2020-1
 # Casa Automatizada
 ### Empresa: Fatec
-### Professor responsável: Jean Carlos Lourenço Costa
+#### Professor responsável: Jean Carlos Lourenço Costa
 O nosso primeiro projeto foi sobre a automatização de funções domésticas cotidianas de uma casa. Ao contrário da maioria dos projetos seguintes esse não foi proveniente de um problema relatado por uma empresa externa.
 A ideia era uma melhoria tecnológica para o ambiente residencial. Propomos um aplicativo que ligasse aquecedor, alarme e luzes. Montamos a maquete de uma casa onde conseguimos fazer uma simulação do que seria em uma casa real controlada por um aplicativo mobile.
 
