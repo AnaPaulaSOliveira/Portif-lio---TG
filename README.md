@@ -6,7 +6,7 @@ Contatos
 - Email: anapaula857836@yahoo.com.br
 - [Linkedin](https://www.linkedin.com/in/ana-paula-santos-de-oliveira-237a401ab/)
 
-![ ](Portifolo/images/Ana.png)
+![ ](images/Ana.png)
 
 Sou Ana Paula, tenho 22 anos, moro em São José dos Campos-SP sou formada em técnico em química e atualmente estou cursando o 5º Semestre de Análise e Desenvolvimento de Sistemas na na FATEC, eu sempre achei interessante área de programação e também entender como os aplicativos e sites funcionam, todavia pareceu interessante desenvolver algo assim e isso me incentivou a começar e continuar no curso. Atualmente também estou buscando oportunidades de atuar na área.
 
