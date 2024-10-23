@@ -3,7 +3,7 @@
 ## Introdução
 
 
-Sou Ana Paula nasci tenho 22 anos, moro em São José dos Campos-SP sou formada em técnico em química e atualmente estou cursando o 5º Semestre de Análise e Desenvolvimento de Sistemasna na FATEC.
+Sou Ana Paula, tenho 22 anos, moro em São José dos Campos-SP sou formada em técnico em química e atualmente estou cursando o 5º Semestre de Análise e Desenvolvimento de Sistemasna na FATEC.
 
 ## Meus Projetos
 
