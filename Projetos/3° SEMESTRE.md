@@ -14,13 +14,13 @@ Nossa solução incluiu uma vesão mobile e uma versão web, desenvolvemos um si
 ## Minhas Contribuições 
 Contribuí com a parte dos prótotipos das telas usando o Figma pela primeira vez e também contribuí no front-end ajudando na parte de estilização das telas e ma criação do dashboard.
 
-##Hard Skills
+## Hard Skills
 - Figma
 - CSS
 - HTML
 - JavaScript
 
-##Soft Skills 
+## Soft Skills 
 - Foco: Foi muito importante para que pudesse concluir minhas tarefas com proatividade.
 - Organização: Saber organizar e otimizar oi tempo com outras matérias.
 - Comunicação: Dizer quando esta tendo dificuldades em alguma tarefa que lhe foi atribuído o quanto antes para que talvez alguém do grupo possa ajudar, ou até mesmo para expor as suas ideias sobre o mesmo projeto.
