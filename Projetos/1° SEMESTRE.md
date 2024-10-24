@@ -22,5 +22,7 @@ Contribuí com o desenvolvimento da programação do arduíno, na montagem da ma
 - Trabalho em equipe - saber ajudar os colegas e saber pedir ajuda quando esta tendo dificuldades, também 
 compartilhar conhecimentos que as vezes o colega não sabe ou então alguém é mais experiente sobre algum assunto como o arduíno pro exemplo, sempre é de grande ajuda e faz parte do trabalho em grupo
 
+[Voltar à página principal](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/README.md)
+
 
 
