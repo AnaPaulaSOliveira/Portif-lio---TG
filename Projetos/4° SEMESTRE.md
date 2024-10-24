@@ -6,4 +6,4 @@
 
 
 
-[Voltar à página principal](https://github.com/AnaPaulaSOliveira/Portifolio--TG/edit/main/README.md)
+[Voltar à página principal](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/README.md)
