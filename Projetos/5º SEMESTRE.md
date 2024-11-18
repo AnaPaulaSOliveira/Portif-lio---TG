@@ -6,6 +6,18 @@ O problema que nos foi apresentado é que a empresa precisava ter um controle ma
 
 Nossa equipe criou uma aplicação chamada FCManager que oferece um sistema de localização preciso e intuitivo, permitindo que os usuários visualizem a localização dos equipamentos em tempo real no mapa. O aplicativo também permite o registro detalhado de todas as manobras, incluindo equipamentos utilizados, usuários envolvidos e localização, possui um sistema de autenticação robusto e controle de acesso, garantindo a segurança das informações, sendo também um aplicativo mobile o que permite que os usuários acessem as informações e funcionalidades do sistema em qualquer hora e lugar, sendo mais prático para os usuários.
 
+## Minhas contribuições
+Contribuí em criar o prototipo usando o Figma e também contrubuí no front-end ajudando a desenvolver algumas telas como por exemplo a tela de manobras usando React-Native criando botões e outros detalhes.
+
+## Hard skills
+- Figma - Sei fazer sozinha.
+- React-Native - Sei fazer com ajuda.
+
+## Soft skills
+- Comunicação: Estar bem alinhado entre a equipe sobre as ideias, por exemplo entender a proposta do projeto que no começo não estava tao clara.
+- Criatividade: Para ter boas ideias, como de implementações, escolher o nome para o aplicativo etc e ajudar também no design da tela.
+- Organização: Todos os dias haviam dayllys para manter organizado nosso progresso no desenvolvimento.
+- Dedicação: Eu não sabia usar muito bem o React-Native então, com ajuda de colegas e estudo eu fui aprendendo melhor. 
 
 
 [Voltar à página principal](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/README.md)
