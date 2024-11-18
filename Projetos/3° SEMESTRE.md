@@ -12,7 +12,7 @@ Nossa solução incluiu uma vesão mobile e uma versão web, desenvolvemos um si
 ![ ](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/images/IONIC.gif)
 
 ## Minhas Contribuições 
-Contribuí com a parte dos prótotipos das telas usando o Figma pela primeira vez e também contribuí no front-end ajudando na parte de estilização das telas e ma criação do dashboard.
+Contribuí com a parte dos prótotipos com dos design das telas usando o Figma pela primeira vez e também contribuí na parte do front-end ajudando na parte de estilização das telas e na criação do dashboard especifícamente criando os gráficos.
 
 ## Hard Skills
 - Figma ★ ★ ★ ★ ★
