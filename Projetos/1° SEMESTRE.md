@@ -14,8 +14,8 @@ A ideia era uma melhoria tecnológica para o ambiente residencial. Propomos um a
 Contribuí com o desenvolvimento da programação do arduíno, na montagem da maquete e na gravação do vídeo de apresentação
 
 #### Hard Skills
-- Conhecimento em C - Sei fazer com ajuda
-- Arduíno - Sei fazer com ajuda
+- Conhecimento em C ★ ★ ☆ ☆ ☆
+- Arduíno ★ ★ ☆ ☆ ☆
 
 #### Soft Skills
 - Organização - Precisei ter organização para otimizar o tempo e ser produtiva durante o período da pandemia, quando tivemos aulas online, um exemplo é saber organizar o tempo de estudo, poius em casa sempre aparecem distrações
