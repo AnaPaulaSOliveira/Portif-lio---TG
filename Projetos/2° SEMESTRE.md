@@ -11,7 +11,7 @@ O problema que nos foi apresentado foi sobre a falta de controle da jornada dos 
 Nessa época ainda era tudo novo pra mim nessa área, ajudei a criar os wireframes, contribuí na parte do front-end, aprendendo bastante com os meu colegas.
 
 ## Hard skills
-- Java 
+- Java - Sei fazer com ajuda.
 ## Soft skills
 - Comunicação: Foi importante para cada um expressar suas ideias, tornando assim o projeto melhor e tirar dúvidas e que muitas vezes seria mais difícil sanarmos individualmente.
 
