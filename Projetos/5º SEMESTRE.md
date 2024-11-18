@@ -14,7 +14,7 @@ Contribuí em criar o prototipo usando o Figma e também contrubuí no front-end
 - React-Native - Sei fazer com ajuda.
 
 ## Soft skills
-- Comunicação: Estar bem alinhado entre a equipe sobre as ideias, por exemplo entender a proposta do projeto que no começo não estava tao clara.
+- Comunicação: Estar alinhado entre a equipe sobre as ideias, entender a proposta do projeto que no começo não estavam tão claras para mim.
 - Criatividade: Para ter boas ideias, como de implementações, escolher o nome para o aplicativo etc e ajudar também no design da tela.
 - Organização: Todos os dias haviam dayllys para manter organizado nosso progresso no desenvolvimento.
 - Dedicação: Eu não sabia usar muito bem o React-Native então, com ajuda de colegas e estudo eu fui aprendendo melhor. 
