@@ -8,7 +8,7 @@ O problema que nos foi apresentado foi sobre a falta de controle da jornada dos 
 ![ ](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/images/IACIT.png)
 
 ## Minhas contribuições 
-Nessa época ainda era tudo novo pra mim nessa área, ajudei a criar os wireframes, contribuí na parte do front-end, aprendendo bastante com os meu colegas.
+Nessa época ainda era tudo novo pra mim nessa área, ajudei a criar os wireframes, contribuí na parte do front-end ajudando a criar algumas telas como a tela onde mostra a entrega atual, aprendendo bastante com os meu colegas.
 
 ## Hard skills
 - Java - Sei fazer com ajuda.
