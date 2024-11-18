@@ -7,3 +7,5 @@ O problema que nos foi apresentado é que a empresa precisava ter um controle ma
 Nossa equipe criou uma aplicação chamada FCManager que oferece um sistema de localização preciso e intuitivo, permitindo que os usuários visualizem a localização dos equipamentos em tempo real no mapa. O aplicativo também permite o registro detalhado de todas as manobras, incluindo equipamentos utilizados, usuários envolvidos e localização, possui um sistema de autenticação robusto e controle de acesso, garantindo a segurança das informações, sendo também um aplicativo mobile o que permite que os usuários acessem as informações e funcionalidades do sistema em qualquer hora e lugar, sendo mais prático para os usuários.
 
 
+
+[Voltar à página principal](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/README.md)
