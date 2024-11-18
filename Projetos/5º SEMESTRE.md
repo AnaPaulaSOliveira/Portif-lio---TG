@@ -10,8 +10,8 @@ Nossa equipe criou uma aplicação chamada FCManager que oferece um sistema de l
 Contribuí em criar o prototipo usando o Figma e também contrubuí no front-end ajudando a desenvolver algumas telas como por exemplo a tela de manobras usando React-Native criando botões e outros detalhes.
 
 ## Hard skills
-- Figma - Sei fazer sozinha.
-- React-Native - Sei fazer com ajuda.
+- Figma ★ ★ ★ ★ ★
+- React-Native ★ ★ ★ ☆ ☆
 
 ## Soft skills
 - Comunicação: Estar alinhado entre a equipe sobre as ideias, entender a proposta do projeto que no começo não estavam tão claras para mim.
