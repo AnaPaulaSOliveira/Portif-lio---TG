@@ -2,17 +2,17 @@
 ### 2º Semestre 
 No segundo semestre nosso cliente a empresa IACIT, uma empresa brasileira, fundada em 1986. Com sede em São José dos Campos (SP), a empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa; Desenvolvimento e Inovação e Telemetria.
 
-O problema que nos foi apresentado foi sobre a falta de controle da jornada dos motoristas de caminhão. Não havia como saber onde estava a mercadoria até que esta chegasse ao seu destino. Para melhorar esse controle do trajeto, Neste trabalho, nossa equipe desenvolveu um sistema em que era possível a manutenção de dados pessoais dos motoristas e de seus veículos, mantendo o funcionário informado sobre sua jornada de trabalho, acompanhamento das entregas a serem feitas e a possibilidade de escolher o funcionário e o veículo para concluir a entrega.
+Diante do desafio de controlar a jornada dos motoristas de caminhão e rastrear a localização das mercadorias, desenvolvemos um sistema que oferece um acompanhamento preciso da jornada de cada motorista, desde a saída até a entrega da mercadoria. Além disso, o sistema permite a gestão eficiente dos dados dos funcionários e veículos, otimizando a alocação de recursos e aumentando a produtividade.
 
 
 ![ ](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/images/IACIT.png)
 
 ## Minhas contribuições 
-Nessa época ainda era tudo novo pra mim nessa área, ajudei a criar os wireframes, contribuí na parte do front-end ajudando a criar algumas telas como a tela onde mostra a entrega atual, aprendendo bastante com os meu colegas.
+Iniciando meus primeiros passos na área, tive a oportunidade de contribuir ativamente no desenvolvimento do projeto. Ajudei a criar os wireframes e desenvolvi telas do front-end, como a interface de acompanhamento de entregas. Essa experiência foi fundamental para meu aprendizado, pois pude colocar em prática meus conhecimentos e adquirir novas habilidades ao lado de colegas mais experientes.
 
 ## Hard skills
 - Java  ★ ★ ★ ★ ☆ 
 ## Soft skills
-- Comunicação: Foi importante para cada um expressar suas ideias, tornando assim o projeto melhor e tirar dúvidas e que muitas vezes seria mais difícil sanarmos individualmente.
+- Comunicação: A troca de ideias entre os membros da equipe foi fundamental para o sucesso do projeto. Ao compartilharmos nossos conhecimentos e perspectivas, conseguimos aprimorar o resultado final e solucionar dúvidas que seriam mais complexas de resolver individualmente.
 
 [Voltar à página principal](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/README.md)
