@@ -2,17 +2,15 @@
 ### 3° Semestre
 Nosso cliente foi a Ionic Health, uma empresa brasileira movida pela saúde, automação e inovação, fundada em 2019, que possui a sede no Parque Técnológico de São José dos Campos, sua equipe de profissionais incluem radiologistas, tecnólogos, cientistas da computação, desenvolvedores de software, estatísticos, pesquisadores, especialistas em IA e especialistas em saúde, a IONIC Health é uma das primeiras reconhecida no setor de medicina diagnóstica.
 
-O problema que nos foi apresentado foi que a empresa queria um sistema CRM (Customer Relationship Management), Gestão de Relacionamento com o Cliente, ela solicitou o pedido para que pudesse gerenciar o relacionamento de vendas com o cliente, para manter mais organizado os dados dos clientes,pois antes poderia ocorrer de perder dados dos cliente ou estarem desatualizados, também para que as vendas mantessem um padrão, evitando perder oprotunidades de vendas e para que pudessem atender cada cliente de forma personalizada. Nesse pedido haviam alguns requisitos para o sistema, como Interface personalizável;
-Cadastro e acesso de usuário ou funcionário; Sistema de cadastro de Pipelines e Nível de Pipelines.
+Diante da necessidade da empresa em otimizar a gestão do relacionamento com os clientes, desenvolvemos um sistema CRM personalizado. A solução proposta visa centralizar e organizar todas as informações dos clientes, eliminando o risco de perda ou desatualização de dados. Com o CRM, a equipe de vendas poderá acompanhar de forma mais eficiente o ciclo de vendas, identificar novas oportunidades de negócio e oferecer um atendimento personalizado a cada cliente. Entre as funcionalidades do sistema, destacam-se a interface personalizável, o cadastro de usuários e o gerenciamento de pipelines de vendas.
 
-Nossa solução incluiu uma vesão mobile e uma versão web, desenvolvemos um sistema onde a empresa poderia cadastrar seus clientes funcionários que iam ter acesso ao sistema. Dentro da mesma plataforma era possível adicionar os contatos dos clientes e enviar um e-mail para eles na mesma tela.
-
+Nossa solução abrange uma plataforma web e mobile, oferecendo um conjunto de funcionalidades que visam otimizar a gestão do relacionamento com os clientes. A plataforma permite o cadastro e o gerenciamento de clientes e funcionários, além de possibilitar a comunicação direta com os clientes através do envio de e-mails. Adicionalmente, o sistema oferece recursos para o acompanhamento do ciclo de vendas, a visualização de dados estatísticos em gráficos e a personalização da interface, proporcionando uma experiência de usuário mais completa e satisfatória.
 
 ![ ](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/images/IONIC%20HEALTH.png)
 ![ ](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/images/IONIC.gif)
 
 ## Minhas Contribuições 
-Contribuí com a parte dos prótotipos com dos design das telas usando o Figma pela primeira vez e também contribuí na parte do front-end ajudando na parte de estilização das telas e na criação do dashboard especifícamente criando os gráficos.
+Durante o projeto, atuei na criação de protótipos de interfaces utilizando a ferramenta Figma, sendo essa minha primeira experiência com a ferramenta. Posteriormente, contribuí na fase de desenvolvimento front-end, sendo responsável pela estilização visual das telas e pela criação dos gráficos do dashboard. Essas atividades permitiram que eu desenvolvesse minhas habilidades em design e desenvolvimento de interfaces.
 
 ## Hard Skills
 - Figma ★ ★ ★ ★ ★
@@ -22,8 +20,8 @@ Contribuí com a parte dos prótotipos com dos design das telas usando o Figma p
 
 ## Soft Skills 
 - Foco: Foi muito importante para que pudesse concluir minhas tarefas com proatividade.
-- Organização: Saber organizar e otimizar oi tempo com outras matérias.
-- Comunicação: Dizer quando esta tendo dificuldades em alguma tarefa que lhe foi atribuído o quanto antes para que talvez alguém do grupo possa ajudar, ou até mesmo para expor as suas ideias sobre o mesmo projeto.
+- Organização: Saber organizar e otimizar o tempo com outras matérias.
+- Comunicação: É fundamental comunicar proativamente à equipe quando se depara com dificuldades em uma tarefa, buscando apoio e colaboração para encontrar soluções e, quem sabe, até mesmo contribuir com novas ideias para o projeto
   
 
 [Voltar à página principal](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/README.md)
