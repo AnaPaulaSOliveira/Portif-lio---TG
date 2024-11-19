@@ -1,7 +1,7 @@
 # Casa Automatizada
 ### Empresa: Fatec
 #### Professor responsável: Jean Carlos Lourenço Costa
-O nosso primeiro projeto foi sobre a automatização de funções domésticas cotidianas de uma casa. Ao contrário da maioria dos projetos seguintes esse não foi proveniente de um problema relatado por uma empresa externa.
+O nosso primeiro projeto foi sobre a automatização de funções domésticas cotidianas de uma casa.
 A ideia era uma melhoria tecnológica para o ambiente residencial. Propomos um aplicativo que ligasse aquecedor, alarme e luzes. Montamos a maquete de uma casa onde conseguimos fazer uma simulação do que seria em uma casa real controlada por um aplicativo mobile.
 
 #### Tecnologias Utilizadas
@@ -11,16 +11,15 @@ A ideia era uma melhoria tecnológica para o ambiente residencial. Propomos um a
 - Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o arduíno antes de termos os componentes físicos.
 
 #### Contribuições Pessoais
-Contribuí com o desenvolvimento da programação do arduíno, na montagem da maquete e na gravação do vídeo de apresentação
+Contribuí para o desenvolvimento da programação do Arduino, aprofundando meus conhecimentos em linguagem C e participando da montagem da maquete, incluindo a colagem de componentes e a instalação da fiação. Ajudei também na gravação do vídeo de apresentação do projeto
 
 #### Hard Skills
 - Conhecimento em C ★ ★ ☆ ☆ ☆
 - Arduíno ★ ★ ☆ ☆ ☆
 
 #### Soft Skills
-- Organização - Precisei ter organização para otimizar o tempo e ser produtiva durante o período da pandemia, quando tivemos aulas online, um exemplo é saber organizar o tempo de estudo, poius em casa sempre aparecem distrações
-- Trabalho em equipe - saber ajudar os colegas e saber pedir ajuda quando esta tendo dificuldades, também 
-compartilhar conhecimentos que as vezes o colega não sabe ou então alguém é mais experiente sobre algum assunto como o arduíno pro exemplo, sempre é de grande ajuda e faz parte do trabalho em grupo
+- Organização - A necessidade de organização se tornou fundamental para otimizar meu tempo e garantir minha produtividade durante o período de aulas online, marcado por diversas distrações no ambiente doméstico. A gestão do tempo dedicado aos estudos foi um dos principais desafios a serem superados.
+- Trabalho em equipe - A capacidade de auxiliar os colegas e de solicitar ajuda quando necessário é fundamental para o trabalho em equipe. Compartilhar conhecimentos, como por exemplo sobre Arduino, enriquece o aprendizado de todos e contribui para um ambiente colaborativo.
 
 [Voltar à página principal](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/README.md)
 
