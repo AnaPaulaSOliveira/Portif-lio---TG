@@ -16,15 +16,14 @@ Desenvolvemos uma plataforma colaborativa que permite aos produtores rurais regi
 ![ ](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/images/google-login.gif)
 
 ## Minhas contribuições
-Contribuí em criar os designs e manter atualizado os protótipos do Figma do projeto e também na parte do front-end ajudando a fazer alguns botões das telas como na tela de login e na estilização das telas como na tela onde mostra os talhões.
+Fui responsável pela criação e atualização dos designs e protótipos no Figma, além de contribuir na parte de front-end, desenvolvendo componentes como botões para as telas de login e aplicando estilos visuais em telas como a de talhões e a de adição de novos talhões. Essa foi minha primeira experiência com o desenvolvimento de aplicativos mobile, o que me proporcionou um aprendizado significativo.
 
 ## Hard skills
 - Figma ★ ★ ★ ★ ★ 
 - React Native ★ ★ ★ ☆ ☆ 
 
 ## Soft skills
-- Comunicação: Estar bem alinhado entre a equipe sobre as ideias, por exemplo estar claro de como devem ser a telas do aplcativo.
-- Criatividade: Para ter boas ideias, como de implementações, de nomes para o aplicativo etc.
-
+- Comunicação: É fundamental que a equipe esteja alinhada quanto às ideias, especialmente no que diz respeito à concepção visual das telas do aplicativo
+- Criatividade: Para ter ideias criativas, como novas funcionalidades e nomes para o aplicativo.
 
 [Voltar à página principal](https://github.com/AnaPaulaSOliveira/Portifolio--TG/blob/main/README.md)
